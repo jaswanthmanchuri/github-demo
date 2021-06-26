@@ -1,2 +1,2 @@
 # github-demo
- A simploe demo. How to use git. Basic command stuff.
+ A simple demo repository. How to use git. Basic Git command.
